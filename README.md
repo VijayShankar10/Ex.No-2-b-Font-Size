@@ -50,7 +50,9 @@ RegisterNumber:  212222040178
 ```
 
 ## MainActivity.java:
+```
 /*
+
 package com.example.demo;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -108,12 +110,14 @@ ch = 1;
 }
 }
 /*
+```
 
 
 
 
 
 ## activity_main.xml:
+```
 /*
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -147,8 +151,12 @@ android:text="Change color"
 android:textSize="25sp" />
 </LinearLayout>
 /*
+```
 
 ## Output:
+![Screenshot 2024-09-10 184548](https://github.com/user-attachments/assets/8cae9fc5-6c7e-479e-a27a-9a015e07b1ef)
+![Screenshot 2024-09-10 184618](https://github.com/user-attachments/assets/5c5ae8e9-2e15-44f6-93b5-3a7e9da99b75)
+
 
 
 
